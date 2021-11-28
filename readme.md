@@ -4,7 +4,7 @@
 - Mesaj zamanlama
 
 # Whatsapp Oto Cevap Vidosu
-> [![Watch the video](https://github.com/behlulbozal/whatsapp_oto_cevap/blob/main/image.png?raw=true)](https://youtu.be/MU3nj8Uh7v0)
+> [![Watch the video](https://github.com/behlulbozal/whatsapp_cevap_botu/blob/main/image.png?raw=true)](https://youtu.be/MU3nj8Uh7v0)
 > Videoyu izlemek için tıklayınız
 
 ------------
